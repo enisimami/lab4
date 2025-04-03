@@ -1,5 +1,4 @@
-@@ -1,4 +1,128 @@
- venv
+venv
  *.pyc
  *.backup
  # Created by https://www.gitignore.io/api/flask
